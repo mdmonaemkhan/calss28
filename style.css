@@ -1,0 +1,53 @@
+.hader-logo img{
+    width: auto;
+    height: 75px;
+}
+
+.service{
+    background: #f9f9ff;
+    margin-top: 10px;
+}
+.button{
+    background: #8490ff;
+}
+
+.section{
+    margin-top: 22%;
+    
+}
+.sector{
+    margin-top: 20%;
+    margin-left: 15px;
+}
+.numbering{
+    background: #8490ff;
+}
+.numbre-text{
+    /* margin-left: 15%;
+    margin-right: 15%; */
+    text-align: center;
+}
+.number-section{
+    width: 31%;
+}
+.number h4{
+    
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    text-align: center; 
+    padding: 35px 0;
+}
+
+.baner-section{
+    
+}
+.banaer-img{
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+
+.full-bg{
+    background:#f9f9ff ;
+}
